@@ -1,0 +1,16 @@
+h1{
+    display: inline-block;
+    background-color: bisque;
+    width: 100px;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+}
+/* 
+.mid{
+    
+    margin-bottom: 100px;
+  
+} */
